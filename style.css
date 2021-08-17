@@ -1,0 +1,29 @@
+.link{
+	color: blue;
+	text-decoration: underline dashed;
+}
+
+}
+.link:visited{
+	color: yellow;
+}
+
+.link:hover{
+	color:red;
+	text-decoration: underline;
+} 
+body{
+	background:url(anime.png) 0 0/100% 100%, no-repeat fixed;
+}
+.text:focus{
+	box-shadow: 0 0 5px 2px;
+
+	
+}
+button{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	height: 50px;
+	width: 50px;
+}
